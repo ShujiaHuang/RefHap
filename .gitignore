@@ -1,0 +1,11 @@
+SIH.jar
+
+*.log
+.DS_Store
+
+
+
+.idea/
+bin/
+trash/
+
